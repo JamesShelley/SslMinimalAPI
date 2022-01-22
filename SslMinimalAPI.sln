@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SslMinimalAPI", "SslMinimalAPI\SslMinimalAPI.csproj", "{DDC14B5C-8696-49E1-8993-E2376AEEA27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SslMinimalAPI", "SslMinimalAPI\SslMinimalAPI.csproj", "{DDC14B5C-8696-49E1-8993-E2376AEEA27F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D5FA904-1377-4DB4-B55E-376BED1B57C9}"
+	ProjectSection(SolutionItems) = preProject
+		SslMinimalAPI\README.md = SslMinimalAPI\README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
